@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Taiana Avila Ramos
+- 👀 I’m interested in cybersecurity, software development, full stack developing, databases
+- 🌱 I’m currently learning AWS, OS, SQL
+- 💞️ I’m looking to collaborate on anything!
+- 📫 Reach me @ avilataiana03@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cats!
